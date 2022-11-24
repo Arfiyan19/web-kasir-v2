@@ -111,11 +111,17 @@ Notes : Jika Sudah Menjalankan db:seed (Seeder Laravel) yang berfungsi untuk mem
 
 ## Aplikasi Screenshot
 
-<img src="home.png" alt="Halaman Home">
-<img src="dashboard.png" alt="Halaman Dashboard">
-<img src="data-barang.png" alt="Data Barang">
-<img src="data-pengguna.png" alt="Data Pengguna">
-<img src="data-transaksi-pembelian-barang.png" alt="Daftar Transaksi Pembelian Barang">
+<b>Halaman Home</b>
+<img src="home.png" alt="Halaman Home"> <br>
+<b>Halaman Dashboard</b>
+<img src="dashboard.png" alt="Halaman Dashboard"> </br>
+<b>Data Barang</b>
+<img src="data-barang.png" alt="Data Barang"> </br>
+<b>Data Pengguna</b>
+<img src="data-pengguna.png" alt="Data Pengguna"> </br>
+<b>Daftar Transaksi Pembelian Barang</b>
+<img src="data-transaksi-pembelian-barang.png" alt="Daftar Transaksi Pembelian Barang"> </br>
+<b>Daftar Total Pembelian</b>
 <img src="total-pembelian-1.png" alt="Daftar Total Pembelian">
 
 ## Alat Yang Digunakan Untuk Membuat Web :
